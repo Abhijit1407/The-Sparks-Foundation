@@ -13,7 +13,7 @@ Stack used:-
 Database contains two Tables:- Users Table & Transaction Table
 
 - Users table have basic fields such as name, email & current balance.
-- Transaction table records all the transfers happening between the users along with their time.
+- Transaction table records all the transfers happening between the users along with their date and time.
 
 
 
