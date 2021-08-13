@@ -10,7 +10,7 @@ Stack used:-
 Database contains two Tables:- Users Table & Transaction Table
 
 - Users table have basic fields such as name, email & current balance.
-- Transaction table records all transfers happened along with their time.
+- Transaction table records all the transfers happening between the users along with their time.
 
-This is a website to show basic banking operations created by Abhijit More.
+
 
